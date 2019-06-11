@@ -1,3 +1,3 @@
 # java
-For CI only
+continuous integration with jenkins
 Hello
